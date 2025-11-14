@@ -15,4 +15,5 @@ dependencies = [
     "ipython",
     "ucimlrepo>=0.0.7",
     "comm>=0.2.3",
+    "ipykernel>=7.1.0",
 ]
